@@ -1,0 +1,5 @@
+This is a sample file full of words.
+Some words are repeated.
+Other words are used just once.
+All in all, these are words.
+What shall we do with sentence-ending words?
