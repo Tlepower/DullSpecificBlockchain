@@ -12,4 +12,6 @@ for line in file:
       r[word] = 1
 file.close()
 print(r.keys())
+print(r.values())
+
 
