@@ -11,5 +11,5 @@ for line in file:
     else:
       r[word] = 1
 file.close()
-print(r["words"])
+print(r.keys())
 
