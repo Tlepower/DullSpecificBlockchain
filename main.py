@@ -10,6 +10,8 @@ for line in file:
     else:
       r[word] = 1
 file.close()
-print(max(r.values()))
-
+for key in list(r.keys()):
+  if r[key] == max(r.values()):
+    print(key, r[key])
+    
 
