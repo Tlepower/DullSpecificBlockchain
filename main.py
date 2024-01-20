@@ -13,5 +13,4 @@ file.close()
 for key in list(r.keys()):
   if r[key] == max(r.values()):
     print(key, r[key])
-    
 
